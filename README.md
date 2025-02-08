@@ -3,7 +3,7 @@
 This Power BI dashboard provides an in-depth analysis of customer feedback data, helping businesses understand customer satisfaction trends. It visualizes ratings, feedback sources, customer demographics, and Net Promoter Score (NPS) to uncover key insights for decision-making.
 
 ---
-## 🚀 Project Features
+## 🚀 Key Features
   - Customer Ratings & NPS Analysis: Tracks average rating, NPS, and overall rating trends.
   - Feedback Breakdown: Displays feedback scores across categories like staff attitude, room service, and food quality.
   - Demographic Insights: Analyzes feedback distribution by gender and purpose of visit (business, vacation, etc.).
